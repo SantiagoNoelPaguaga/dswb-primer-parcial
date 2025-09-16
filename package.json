@@ -1,0 +1,28 @@
+{
+  "name": "dswb-primer-parcial",
+  "version": "1.0.0",
+  "description": "Primer Parcial DSWB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoNoelPaguaga/dswb-primer-parcial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoNoelPaguaga/dswb-primer-parcial/issues"
+  },
+  "homepage": "https://github.com/SantiagoNoelPaguaga/dswb-primer-parcial#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
