@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "María González",
+    "rol": "administrador",
+    "area": "Administración de Turnos"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Rodríguez",
+    "rol": "administrador",
+    "area": "Stock de Insumos"
+  },
+  {
+    "id": 3,
+    "nombre": "Mariana Silva",
+    "rol": "médico",
+    "area": "Atención Médica"
+  },
+  {
+    "id": 4,
+    "nombre": "Raul Hernandez",
+    "rol": "médico",
+    "area": "Atención Médica"
+  }
+]
